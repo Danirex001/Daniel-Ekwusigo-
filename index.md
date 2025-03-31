@@ -5,7 +5,7 @@ title: Home
 
 # 👋 Welcome to My Portfolio  
 
-I am **[Daniel Ekwusigo]**, a passionate **Data Analyst | Machine Learning Engineer | Data Scientist**  
+I am Daniel Ekwusigo, a passionate **Data Analyst | Machine Learning Engineer | Data Scientist**  
 I specialize in **data-driven solutions, AI models, and business intelligence**.
 
 ## 📂 Projects
